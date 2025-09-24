@@ -1,5 +1,5 @@
-Jelon Bonto: 0
-Coco Melon: 1
+Jelon Bonto: 1
+Coco Melon: 0
 Diego Peras: 0
 Maria Santos: 0
 Juan Dela Cruz: 0
