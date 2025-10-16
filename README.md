@@ -50,3 +50,6 @@ Percentage of votes relative to the total cast.
 5. Returning to Login
 
 After voting or viewing results, you can click Return to Login to go back to the login screen.
+
+Changes per advice from the panel
+We improved the UI, put in a 10 number unique id instead of a username and password, the admin gets to create the user's id, although what was written in the ENRED is to improve the merge sort and improve the algorithm, it was said by the panel that they mistook us as CS students even though we are IT students and that our algorithm is good and we should'nt dwell on it. we only coded in a method of the merge sort and i think it is fine. 
